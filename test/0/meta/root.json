@@ -1,0 +1,7 @@
+{
+  "model": "path: /test/0/model/root.glb",
+  "children": "path: /test/0/meta/root/a.json, path: /test/0/meta/root/b.json",
+  "entity": "",
+  "probe": false,
+  "threshold": 15
+}

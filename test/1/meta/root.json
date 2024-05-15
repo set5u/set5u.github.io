@@ -1,0 +1,7 @@
+{
+  "model": "",
+  "children": "path: /test/1/meta/root/a.json, path: /test/1/meta/root/b.json",
+  "entity": "",
+  "probe": false,
+  "threshold": 100
+}
